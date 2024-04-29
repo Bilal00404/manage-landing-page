@@ -33,8 +33,8 @@ Below are some screenshots showcasing the project:
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/Bilal00404/Red-Store.git
-2. Navigate to the project directory: cd Red-Store
+1. Clone the repository: git clone https://github.com/Bilal00404/manage-landing-page.git
+2. Navigate to the project directory: cd manage-landing-page
 3. Open the HTML file in your preferred browser.
 
 ## Contact
